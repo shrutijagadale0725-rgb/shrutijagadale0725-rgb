@@ -1,6 +1,6 @@
 ### Hey, I'm Shruti 👋
 
-The classic profile README dilemma — how do I sum myself up without turning this into a wall of text? Let's find out.
+Currently trying to convince my code, my dashboards, and my CGPA to all cooperate at the same time. Mostly winning.
 
 #### 👩‍💻 About Me
 I'm a CS undergrad (CGPA 9.3, graduating 2026) who genuinely loves the "build the whole thing" part of software — schema design, model training, dashboard, all of it. I've shipped two production-style projects solo and in a team, and I'm currently deep in cloud fundamentals (AZ-900 certified 🎓).
@@ -10,8 +10,8 @@ Python · Streamlit · SQLAlchemy · Pandas · Scikit-learn · SQL/SQLite · Fla
 
 #### 🚀 Things I've Actually Shipped
 
-**🏏 [IPL Data Insights Platform](#)**
-Multi-season IPL analytics with a Streamlit dashboard, plus a Scikit-learn model that predicts match winners at 76% accuracy. Sub-second filtering across teams and seasons — because nobody likes waiting on a dashboard. here : [overlly.streamlit.app/] (https://overlly.streamlit.app/)
+**🏏 IPL Data Insights Platform**
+Multi-season IPL analytics with a Streamlit dashboard, plus a Scikit-learn model that predicts match winners at 76% accuracy. Sub-second filtering across teams and seasons — because nobody likes waiting on a dashboard. Here → [overlly.streamlit.app](https://overlly.streamlit.app/)
 
 **💰 [Personal Budget Monitoring System](#)** *(built with a teammate)*
 A finance tracker that eats your CSV exports and turns them into "oh, that's where my money goes" dashboards. Normalized schema, modular backend, built so either of us could extend it without breaking the other's code.
