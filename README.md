@@ -1,6 +1,6 @@
 ### Hey, I'm Shruti 👋
 
-Currently trying to convince my code, my dashboards, and my CGPA to all cooperate at the same time. Mostly winning.
+The classic profile README dilemma — how do I sum myself up without turning this into a wall of text? Let's find out.
 
 #### 👩‍💻 About Me
 I'm a CS undergrad (CGPA 9.3, graduating 2026) who genuinely loves the "build the whole thing" part of software — schema design, model training, dashboard, all of it. I've shipped two production-style projects solo and in a team, and I'm currently deep in cloud fundamentals (AZ-900 certified 🎓).
