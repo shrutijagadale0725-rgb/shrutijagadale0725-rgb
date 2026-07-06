@@ -1,6 +1,6 @@
 ### Hey, I'm Shruti 👋
 
-The classic profile README dilemma — how do I sum myself up without turning this into a wall of text? Let's find out.
+Ugh, the classic profile README dilemma — how do I sum myself up without turning this into a wall of text? Let's find out.
 
 #### 👩‍💻 About Me
 I'm a CS undergrad (CGPA 9.3, graduating 2026) who genuinely loves the "build the whole thing" part of software — schema design, model training, dashboard, all of it. I've shipped two production-style projects solo and in a team, and I'm currently deep in cloud fundamentals (AZ-900 certified 🎓).
