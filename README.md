@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hey, I'm Shruti 👋
 
-<!--
-**shrutijagadale0725-rgb/shrutijagadale0725-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ah, the dreaded profile README — where I try to sum myself up without making you scroll past. Here goes!
 
-Here are some ideas to get you started:
+#### 👩‍💻 About Me
+I'm a CS undergrad (CGPA 9.3, graduating 2026) who genuinely loves the "build the whole thing" part of software — schema design, model training, dashboard, all of it. I've shipped two production-style projects solo and in a team, and I'm currently deep in cloud fundamentals (AZ-900 certified 🎓).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ What I Build With
+Python · Streamlit · SQLAlchemy · Pandas · Scikit-learn · SQL/SQLite · Flask · Azure
+
+#### 🚀 Things I've Actually Shipped
+
+**🏏 [IPL Data Insights Platform](#)**
+Multi-season IPL analytics with a Streamlit dashboard, plus a Scikit-learn model that predicts match winners at 76% accuracy. Sub-second filtering across teams and seasons — because nobody likes waiting on a dashboard.
+
+**💰 [Personal Budget Monitoring System](#)** *(built with a teammate)*
+A finance tracker that eats your CSV exports and turns them into "oh, that's where my money goes" dashboards. Normalized schema, modular backend, built so either of us could extend it without breaking the other's code.
+
+**🐍 [PYGO](https://pygo.pythonanywhere.com/)** — teach-yourself-Python, but free forever
+Runs real Python *in the browser* via Pyodide/WebAssembly — zero server cost, scales to infinite students. Currently live with lesson 1 built out and 19 more coming. Try it → [pygo.pythonanywhere.com](https://pygo.pythonanywhere.com/)
+
+#### 📈 Looking Ahead
+Eager to learn, collaborate, and build more things that solve real problems — through internships, open source, or just a good conversation about network theory. Let's connect!
+
+#### 🏆 Certifications
+Microsoft Azure Fundamentals (AZ-900) · IBM SkillsBuild AI Fundamentals · DeepLearning.AI/OpenAI Prompt Engineering · Tata GenAI Data Analytics Micro Internship · Deloitte Data Analytics Job Simulation
+
+#### 📫 Find Me
+[LinkedIn](https://linkedin.com/in/shruti-jagadale) · Resume on request
