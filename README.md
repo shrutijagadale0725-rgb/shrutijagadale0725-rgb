@@ -10,7 +10,7 @@ Python · Streamlit · SQLAlchemy · Pandas · Scikit-learn · SQL/SQLite · Fla
 
 #### 🚀 Things I've Actually Shipped
 
-**🏏 [IPL Data Insights Platform](overlly.streamlit.app](https://overlly.streamlit.app/)**
+**🏏 [IPL Data Insights Platform](https://overlly.streamlit.app/)**
 Multi-season IPL analytics with a Streamlit dashboard, plus a Scikit-learn model that predicts match winners at 76% accuracy. Sub-second filtering across teams and seasons — because nobody likes waiting on a dashboard. Here → [overlly.streamlit.app](https://overlly.streamlit.app/)
 
 **💰 [Personal Budget Monitoring System](#)** *(built with a teammate)*
