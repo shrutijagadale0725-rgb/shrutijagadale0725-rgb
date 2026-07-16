@@ -17,28 +17,8 @@
 
 <br>
 
-### ✦ open this frame for more
-
 <details>
-<summary><b>📈 what's next</b></summary>
 <br>
-Eager to learn, collaborate, and build more things that solve real problems — through internships, open source, or just a good conversation about network theory. Let's connect!
+<a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a>
 </details>
-
-<details>
-<summary><b>🏆 certifications</b></summary>
 <br>
-Microsoft Azure Fundamentals (AZ-900) · IBM SkillsBuild AI Fundamentals · DeepLearning.AI/OpenAI Prompt Engineering · Tata GenAI Data Analytics Micro Internship · Deloitte Data Analytics Job Simulation
-</details>
-
-<details>
-<summary><b>📫 find me</b></summary>
-<br>
-<a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a> · Resume on request
-</details>
-
-<br>
-
-<div align="center">
-<sub>// this board auto-saves. so does my brain, allegedly.</sub>
-</div>
