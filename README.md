@@ -1,93 +1,29 @@
-<div align="center">
+### Hey, I'm Shruti 👋
 
-<br><br>
+Ah, the classic profile README dilemma — how do I sum myself up without turning this into a wall of text? Let's find out.
 
-### Chapter I
+#### 👩‍💻 About Me
+I'm a CS undergrad (CGPA 9.3, graduating 2026) who genuinely loves the "build the whole thing" part of software — schema design, model training, dashboard, all of it. I've shipped two production-style projects solo and in a team, and I'm currently deep in cloud fundamentals (AZ-900 certified 🎓).
 
-<br>
+#### 🛠️ What I Build With
+Python · Streamlit · SQLAlchemy · Pandas · Scikit-learn · SQL/SQLite · Flask · Azure
 
-*Hey. I'm Shruti.*
+#### 🚀 Things I've Actually Shipped
 
-<br><br><br>
+**🐍 [PYGO](https://pygo.pythonanywhere.com/)** — teach-yourself-Python, but free forever
+Runs real Python *in the browser* via Pyodide/WebAssembly — zero server cost, scales to infinite students. Currently live with lesson 1 built out and 19 more coming. Try it → [pygo.pythonanywhere.com](https://pygo.pythonanywhere.com/)
 
-</div>
+**🏏 [IPL Data Insights Platform](https://overlly.streamlit.app/)**
+Multi-season IPL analytics with a Streamlit dashboard, plus a Scikit-learn model that predicts match winners at 76% accuracy - honestly the most fun part, visit that one first! Sub-second filtering across teams and seasons — because nobody likes waiting on a dashboard. Here → [overlly.streamlit.app](https://overlly.streamlit.app/)
 
----
+**💰 [Personal Budget Monitoring System](#)** *(built with a teammate)*
+A finance tracker that eats your CSV exports and turns them into "oh, that's where my money goes" dashboards. Normalized schema, modular backend, built so either of us could extend it without breaking the other's code.
 
-<div align="center">
-<br><br>
+#### 📈 Looking Ahead
+Eager to learn, collaborate, and build more things that solve real problems — through internships, open source, or just a good conversation about network theory. Let's connect!
 
-I'm a CS undergrad — CGPA 9.3, graduating 2026 —
-who genuinely loves the *"build the whole thing"* part of software.
+#### 🏆 Certifications
+Microsoft Azure Fundamentals (AZ-900) · IBM SkillsBuild AI Fundamentals · DeepLearning.AI/OpenAI Prompt Engineering · Tata GenAI Data Analytics Micro Internship · Deloitte Data Analytics Job Simulation
 
-Schema design. Model training. Dashboards. All of it.
-
-<br><br>
-</div>
-
----
-
-<div align="center">
-<br><br>
-
-### Chapter II — What I Reach For
-
-<br>
-
-Python · Flask · SQLite · Azure
-
-<br><br>
-</div>
-
----
-
-<div align="center">
-<br><br>
-
-### Chapter III — Things I've Actually Shipped
-
-<br>
-
-**[PYGO](https://pygo.pythonanywhere.com)**
-*teach-yourself-Python, free forever — runs in the browser, zero server cost*
-
-<br>
-
-**[IPL Data Insights Platform](https://overlly.streamlit.app)**
-*multi-season analytics, 76% win-prediction accuracy*
-
-<br>
-
-**Personal Budget Monitoring System**
-*a CSV eater, built with a teammate, that turns spending into clarity*
-
-<br><br>
-</div>
-
----
-
-<div align="center">
-<br><br>
-
-### Chapter IV — Currently
-
-<br>
-
-Sharpening DSA, one problem a day.
-Certified in Azure fundamentals.
-Always mid-way through building something.
-
-<br><br>
-</div>
-
----
-
-<div align="center">
-<br><br>
-
-*If you made it this far — thank you for reading.*
-
-[LinkedIn](YOUR_LINK) · [Mail](mailto:shrutijagadale0725@gmail.com)
-
-<br><br>
-</div>
+#### 📫 Find Me
+[LinkedIn](https://linkedin.com/in/shruti-jagadale) · Resume on request
