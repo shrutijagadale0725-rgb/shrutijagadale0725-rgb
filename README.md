@@ -1,48 +1,93 @@
-<p align="center">
-  <video src="https://raw.githubusercontent.com/shrutijagadale0725-rgb/shrutijagadale0725-rgb/main/assets/banner.mp4" width="100%" autoplay loop muted controls></video>
-</p>
+<div align="center">
 
-<h1 align="center">Hey, I'm Shruti 👋</h1>
-<p align="center"><i>Ah, the classic profile README dilemma — how do I sum myself up without turning this into a wall of text? Let's find out.</i></p>
+<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=CS+Undergrad+%7C+CGPA+9.3;Python+%C2%B7+Streamlit+%C2%B7+SQL+%C2%B7+Flask;Building+one+commit+at+a+time" alt="Typing SVG" />
-</p>
+### Chapter I
+
+<br>
+
+*Hey. I'm Shruti.*
+
+<br><br><br>
+
+</div>
+
+---
+
+<div align="center">
+<br><br>
+
+I'm a CS undergrad — CGPA 9.3, graduating 2026 —
+who genuinely loves the *"build the whole thing"* part of software.
+
+Schema design. Model training. Dashboards. All of it.
+
+<br><br>
+</div>
 
 ---
 
-### 🎓 About Me
-I'm a CS undergrad (CGPA 9.3, graduating 2026) who genuinely loves the "build the whole thing" part of software — schema design, model training, dashboards, all of it. I've shipped two production-style projects solo and in a team, and I'm currently deep in cloud fundamentals (AZ-900 certified 📜).
+<div align="center">
+<br><br>
 
-### 🧰 What I Build With
-![](https://skillicons.dev/icons?i=python,flask,sqlite,azure,git,github,vscode)
+### Chapter II — What I Reach For
 
-### 🚀 Things I've Actually Shipped
-🟢 **[PYGO](https://pygo.pythonanywhere.com)** — teach-yourself-Python, but free forever. Runs real Python *in the browser* via Pyodide/WebAssembly — zero server cost, scales to infinite students.
+<br>
 
-📊 **[IPL Data Insights Platform](https://overlly.streamlit.app)** — Multi-season IPL analytics with a Streamlit dashboard, plus a model predicting match winners at 76% accuracy.
+Python · Flask · SQLite · Azure
 
-💰 **Personal Budget Monitoring System** *(built with a teammate)* — A finance tracker that eats your CSV exports and turns them into real dashboards.
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutijagadale0725-rgb&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutijagadale0725-rgb&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-### 🎮 A little fun
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="80%"/>
-</p>
-
-### 🏆 Certifications
-Microsoft Azure Fundamentals (AZ-900) · IBM SkillsBuild AI Fundamentals · DeepLearning.AI/OpenAI Prompt Engineering · Tata GenAI Data Analytics Micro Internship · Deloitte Data Analytics Job Simulation
-
-### 🔗 Find Me
-<p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://img.icons8.com/color/40/linkedin.png"/></a>
-  <a href="mailto:shrutijagadale0725@gmail.com"><img src="https://img.icons8.com/color/40/gmail.png"/></a>
-</p>
+<br><br>
+</div>
 
 ---
-<p align="center">⭐ If something here resonates, a star on my repos means a lot!</p>
+
+<div align="center">
+<br><br>
+
+### Chapter III — Things I've Actually Shipped
+
+<br>
+
+**[PYGO](https://pygo.pythonanywhere.com)**
+*teach-yourself-Python, free forever — runs in the browser, zero server cost*
+
+<br>
+
+**[IPL Data Insights Platform](https://overlly.streamlit.app)**
+*multi-season analytics, 76% win-prediction accuracy*
+
+<br>
+
+**Personal Budget Monitoring System**
+*a CSV eater, built with a teammate, that turns spending into clarity*
+
+<br><br>
+</div>
+
+---
+
+<div align="center">
+<br><br>
+
+### Chapter IV — Currently
+
+<br>
+
+Sharpening DSA, one problem a day.
+Certified in Azure fundamentals.
+Always mid-way through building something.
+
+<br><br>
+</div>
+
+---
+
+<div align="center">
+<br><br>
+
+*If you made it this far — thank you for reading.*
+
+[LinkedIn](YOUR_LINK) · [Mail](mailto:shrutijagadale0725@gmail.com)
+
+<br><br>
+</div>
