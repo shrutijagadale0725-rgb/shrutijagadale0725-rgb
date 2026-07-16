@@ -14,7 +14,9 @@
 
 <br>
 
-**Live links from the board above:** 🐍 [PYGO](https://pygo.pythonanywhere.com/) · 🏏 [IPL Data Insights Platform](https://overlly.streamlit.app/)
+**Live links from the board above:**  
+### ✦ [PYGO](https://pygo.pythonanywhere.com/) ·  
+### ✦ [IPL Data Insights Platform](https://overlly.streamlit.app/)
 
 <br>
 
