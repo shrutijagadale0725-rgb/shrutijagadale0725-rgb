@@ -15,4 +15,4 @@
 ### ✦ [PYGO](https://pygo.pythonanywhere.com/) ·  
 ### ✦ [IPL Data Insights Platform](https://overlly.streamlit.app/)
 
-<a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a>
+**Live links from the board above:** <a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a> <a href="shrutijagadale0725@gmail.com">shrutijagadale0725@gmail.com</a>
