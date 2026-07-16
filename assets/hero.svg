@@ -17,8 +17,8 @@
   <circle cx="740" cy="1120" r="100" fill="#F3C6DE" opacity="0.55" filter="url(#blur1)"/>
 
   <!-- draft tag -->
-  <rect x="34" y="34" width="270" height="30" rx="15" fill="#FFFFFF" stroke="#111111" stroke-width="2" transform="rotate(-2 34 34)"/>
-  <text x="52" y="55" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="700" fill="#111111" transform="rotate(-2 34 34)">v1 · draft · still moving things around</text>
+  <rect x="34" y="34" width="320" height="32" rx="16" fill="#FFFFFF" stroke="#111111" stroke-width="2" transform="rotate(-2 34 34)"/>
+  <text x="50" y="56" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="700" fill="#111111" transform="rotate(-2 34 34)">v1 · draft · still moving things around</text>
 
   <!-- headline -->
   <text x="34" y="130" font-family="Arial Black, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#111111">your BETTER</text>
@@ -26,17 +26,42 @@
 
   <!-- subtitle -->
   <text x="34" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#6b6b63">Hi, I'm Shruti — I sketch ideas fast and ship the ones worth keeping.</text>
-  <text x="34" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#6b6b63">Currently rearranging sticky notes on a Kafka bug.</text>
+  <text x="34" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#6b6b63">Always mid-build on something — that's kind of the point.</text>
 
-  <!-- pointer tags -->
-  <rect x="34" y="256" width="90" height="32" rx="6" fill="#C6D93A" stroke="#111111"/>
-  <text x="48" y="277" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Python</text>
+  <!-- pointer tags: full stack, two rows -->
+  <g transform="rotate(-1.5 79 272)">
+    <rect x="34" y="256" width="90" height="32" rx="6" fill="#C6D93A" stroke="#111111"/>
+    <text x="48" y="277" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Python</text>
+  </g>
+  <g transform="rotate(1 193 272)">
+    <rect x="138" y="256" width="110" height="32" rx="6" fill="#F3C6DE" stroke="#111111"/>
+    <text x="152" y="277" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Streamlit</text>
+  </g>
+  <g transform="rotate(-1 322 272)">
+    <rect x="262" y="256" width="120" height="32" rx="6" fill="#C9C2EE" stroke="#111111"/>
+    <text x="276" y="277" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">SQLAlchemy</text>
+  </g>
+  <g transform="rotate(1.5 426 272)">
+    <rect x="396" y="256" width="90" height="32" rx="6" fill="#C6D93A" stroke="#111111"/>
+    <text x="410" y="277" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Pandas</text>
+  </g>
 
-  <rect x="200" y="296" width="80" height="32" rx="6" fill="#F3C6DE" stroke="#111111"/>
-  <text x="216" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Flask</text>
-
-  <rect x="70" y="336" width="140" height="32" rx="6" fill="#C9C2EE" stroke="#111111"/>
-  <text x="86" y="357" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">ML Pipelines</text>
+  <g transform="rotate(1 99 316)">
+    <rect x="34" y="300" width="130" height="32" rx="6" fill="#F3C6DE" stroke="#111111"/>
+    <text x="48" y="321" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Scikit-learn</text>
+  </g>
+  <g transform="rotate(-1.5 233 316)">
+    <rect x="178" y="300" width="110" height="32" rx="6" fill="#C9C2EE" stroke="#111111"/>
+    <text x="192" y="321" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">SQL/SQLite</text>
+  </g>
+  <g transform="rotate(1.5 342 316)">
+    <rect x="302" y="300" width="80" height="32" rx="6" fill="#C6D93A" stroke="#111111"/>
+    <text x="316" y="321" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Flask</text>
+  </g>
+  <g transform="rotate(-1 426 316)">
+    <rect x="396" y="300" width="80" height="32" rx="6" fill="#F3C6DE" stroke="#111111"/>
+    <text x="410" y="321" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Azure</text>
+  </g>
 
   <!-- section title -->
   <text x="34" y="420" font-family="Arial Black, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#111111">✦ projects (dragged onto the board)</text>
@@ -47,7 +72,15 @@
     <line x1="0" y1="26" x2="712" y2="26" stroke="#111111" stroke-width="2"/>
     <rect x="0" y="0" width="712" height="26" rx="10" fill="#EFEEE8"/>
     <text x="14" y="18" font-family="JetBrains Mono, monospace" font-size="11" fill="#6b6b63">📌 PYGO.md — last edited today</text>
-    <rect x="16" y="38" width="90" height="42" rx="6" fill="url(#hatch)" stroke="#8b8b8b" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <g transform="translate(16,38)">
+      <rect x="0" y="0" width="90" height="42" rx="6" fill="#C6D93A" stroke="#111111" stroke-width="1.5"/>
+      <rect x="6" y="6" width="78" height="10" rx="2" fill="#111111"/>
+      <circle cx="11" cy="11" r="1.6" fill="#F7F5EF"/>
+      <circle cx="16" cy="11" r="1.6" fill="#F7F5EF"/>
+      <circle cx="21" cy="11" r="1.6" fill="#F7F5EF"/>
+      <text x="12" y="30" font-family="JetBrains Mono, monospace" font-size="11" font-weight="700" fill="#111111">&gt;_ py</text>
+      <path d="M68 20 l3 6 l6 1 l-4.5 4.5 l1 6.5 l-5.5 -3 l-5.5 3 l1 -6.5 l-4.5 -4.5 l6 -1 z" fill="#F7F5EF" stroke="#111111" stroke-width="1"/>
+    </g>
     <text x="132" y="52" font-family="Arial Black, Helvetica, sans-serif" font-size="15" font-weight="900" fill="#111111">🐍 PYGO</text>
     <text x="132" y="70" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">Free gamified Python platform. Runs client-side</text>
     <text x="132" y="83" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">via Pyodide — zero server cost.</text>
@@ -61,7 +94,15 @@
     <line x1="0" y1="26" x2="712" y2="26" stroke="#111111" stroke-width="2"/>
     <rect x="0" y="0" width="712" height="26" rx="10" fill="#EFEEE8"/>
     <text x="14" y="18" font-family="JetBrains Mono, monospace" font-size="11" fill="#6b6b63">📌 ipl-model.md — last edited this week</text>
-    <rect x="16" y="38" width="90" height="42" rx="6" fill="url(#hatch)" stroke="#8b8b8b" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <g transform="translate(16,38)">
+      <rect x="0" y="0" width="90" height="42" rx="6" fill="#F3C6DE" stroke="#111111" stroke-width="1.5"/>
+      <rect x="8" y="24" width="8" height="12" fill="#111111"/>
+      <rect x="19" y="16" width="8" height="20" fill="#111111"/>
+      <rect x="30" y="9" width="8" height="27" fill="#111111"/>
+      <circle cx="65" cy="14" r="5" fill="#F7F5EF" stroke="#111111" stroke-width="1.5"/>
+      <line x1="60" y1="19" x2="52" y2="27" stroke="#111111" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="48" y1="31" x2="56" y2="23" stroke="#111111" stroke-width="3.5" stroke-linecap="round"/>
+    </g>
     <text x="132" y="52" font-family="Arial Black, Helvetica, sans-serif" font-size="15" font-weight="900" fill="#111111">🏏 IPL Data Insights Platform</text>
     <text x="132" y="70" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">76% test accuracy, Streamlit dashboard,</text>
     <text x="132" y="83" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">sub-second filtering across seasons.</text>
@@ -75,7 +116,14 @@
     <line x1="0" y1="26" x2="712" y2="26" stroke="#111111" stroke-width="2"/>
     <rect x="0" y="0" width="712" height="26" rx="10" fill="#EFEEE8"/>
     <text x="14" y="18" font-family="JetBrains Mono, monospace" font-size="11" fill="#6b6b63">📌 budget-monitor.md — built with a teammate</text>
-    <rect x="16" y="38" width="90" height="42" rx="6" fill="url(#hatch)" stroke="#8b8b8b" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <g transform="translate(16,38)">
+      <rect x="0" y="0" width="90" height="42" rx="6" fill="#C9C2EE" stroke="#111111" stroke-width="1.5"/>
+      <rect x="16" y="10" width="50" height="26" rx="4" fill="#F7F5EF" stroke="#111111" stroke-width="1.5"/>
+      <rect x="46" y="18" width="16" height="10" rx="2" fill="#111111"/>
+      <circle cx="54" cy="23" r="1.6" fill="#F7F5EF"/>
+      <circle cx="70" cy="14" r="6" fill="#C6D93A" stroke="#111111" stroke-width="1.5"/>
+      <text x="67" y="17" font-family="Arial Black, sans-serif" font-size="8" font-weight="900" fill="#111111">$</text>
+    </g>
     <text x="132" y="52" font-family="Arial Black, Helvetica, sans-serif" font-size="15" font-weight="900" fill="#111111">💰 Budget Monitoring System</text>
     <text x="132" y="70" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">Eats CSV exports, turns them into "oh, that's</text>
     <text x="132" y="83" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">where my money goes" dashboards.</text>
@@ -94,8 +142,8 @@
 
   <g transform="translate(272,822) rotate(1.5)">
     <rect x="0" y="0" width="220" height="70" rx="4" fill="#F3C6DE" stroke="#111111" stroke-width="2"/>
-    <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">figure out the port</text>
-    <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">8080 conflict!!</text>
+    <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">learn something new</text>
+    <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">every single week</text>
   </g>
 
   <g transform="translate(510,816) rotate(-1)">
