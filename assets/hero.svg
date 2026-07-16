@@ -10,11 +10,11 @@
   </defs>
 
   <!-- page background -->
-  <rect x="0" y="0" width="780" height="1180" rx="14" fill="#F7F5EF" stroke="#111111" stroke-width="2"/>
+  <rect x="0" y="0" width="780" height="1080" rx="14" fill="#F7F5EF" stroke="#111111" stroke-width="2"/>
 
   <!-- blobs -->
   <circle cx="60" cy="40" r="110" fill="#C9C2EE" opacity="0.55" filter="url(#blur1)"/>
-  <circle cx="740" cy="1120" r="100" fill="#F3C6DE" opacity="0.55" filter="url(#blur1)"/>
+  <circle cx="740" cy="1020" r="100" fill="#F3C6DE" opacity="0.55" filter="url(#blur1)"/>
 
   <!-- draft tag -->
   <rect x="34" y="34" width="320" height="32" rx="16" fill="#FFFFFF" stroke="#111111" stroke-width="2" transform="rotate(-2 34 34)"/>
@@ -25,8 +25,8 @@
   <text x="34" y="178" font-family="Arial Black, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#111111">BUILT PROFILE <tspan font-family="JetBrains Mono, monospace" font-size="24" fill="#8FA820">(^_^)</tspan></text>
 
   <!-- subtitle -->
-  <text x="34" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#6b6b63">Hi, I'm Shruti — I sketch ideas fast and ship the ones worth keeping.</text>
-  <text x="34" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#6b6b63">Always mid-build on something — that's kind of the point.</text>
+  <text x="34" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#3d3d36">Hi, I'm Shruti — I sketch ideas fast and ship the ones worth keeping.</text>
+  <text x="34" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#3d3d36">Always mid-build on something — that's kind of the point.</text>
 
   <!-- pointer tags: full stack, two rows -->
   <g transform="rotate(-1.5 79 272)">
@@ -131,28 +131,51 @@
     <text x="622" y="48" font-family="JetBrains Mono, monospace" font-size="10" font-weight="700" fill="#3a3560">SHIPPED</text>
   </g>
 
-  <!-- sticky notes section -->
-  <text x="34" y="796" font-family="Arial Black, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#111111">✦ sticky notes to self</text>
+  <!-- card 4: Tic Tac Toe -->
+  <g transform="translate(34,764)">
+    <rect x="0" y="0" width="712" height="94" rx="10" fill="#FFFFFF" stroke="#111111" stroke-width="2"/>
+    <line x1="0" y1="26" x2="712" y2="26" stroke="#111111" stroke-width="2"/>
+    <rect x="0" y="0" width="712" height="26" rx="10" fill="#EFEEE8"/>
+    <text x="14" y="18" font-family="JetBrains Mono, monospace" font-size="11" fill="#6b6b63">📌 tictactoe.md — practice project</text>
+    <g transform="translate(16,38)">
+      <rect x="0" y="0" width="90" height="42" rx="6" fill="#C6D93A" stroke="#111111" stroke-width="1.5"/>
+      <line x1="32" y1="6" x2="32" y2="36" stroke="#111111" stroke-width="1.5"/>
+      <line x1="50" y1="6" x2="50" y2="36" stroke="#111111" stroke-width="1.5"/>
+      <line x1="14" y1="16" x2="68" y2="16" stroke="#111111" stroke-width="1.5"/>
+      <line x1="14" y1="26" x2="68" y2="26" stroke="#111111" stroke-width="1.5"/>
+      <line x1="18" y1="9" x2="27" y2="15" stroke="#111111" stroke-width="2" stroke-linecap="round"/>
+      <line x1="27" y1="9" x2="18" y2="15" stroke="#111111" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="59" cy="31" r="4.5" fill="none" stroke="#111111" stroke-width="2"/>
+    </g>
+    <text x="132" y="52" font-family="Arial Black, Helvetica, sans-serif" font-size="15" font-weight="900" fill="#111111">⭕ Tic Tac Toe — Java Console Game</text>
+    <text x="132" y="70" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">Two-player console game with real-time win/draw</text>
+    <text x="132" y="83" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">detection and input-validated turn logic.</text>
+    <rect x="612" y="34" width="84" height="20" rx="4" fill="#C9C2EE"/>
+    <text x="622" y="48" font-family="JetBrains Mono, monospace" font-size="10" font-weight="700" fill="#3a3560">SHIPPED</text>
+  </g>
 
-  <g transform="translate(34,816) rotate(-1.5)">
+  <!-- sticky notes section -->
+  <text x="34" y="904" font-family="Arial Black, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#111111">✦ sticky notes to self</text>
+
+  <g transform="translate(34,924) rotate(-1.5)">
     <rect x="0" y="0" width="220" height="70" rx="4" fill="#C9C2EE" stroke="#111111" stroke-width="2"/>
     <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">build the whole thing,</text>
     <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">not just one layer</text>
   </g>
 
-  <g transform="translate(272,822) rotate(1.5)">
+  <g transform="translate(272,930) rotate(1.5)">
     <rect x="0" y="0" width="220" height="70" rx="4" fill="#F3C6DE" stroke="#111111" stroke-width="2"/>
     <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">learn something new</text>
     <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">every single week</text>
   </g>
 
-  <g transform="translate(510,816) rotate(-1)">
+  <g transform="translate(510,924) rotate(-1)">
     <rect x="0" y="0" width="220" height="70" rx="4" fill="#C6D93A" stroke="#111111" stroke-width="2"/>
     <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">ship &gt; polish</text>
     <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">forever</text>
   </g>
 
   <!-- footer -->
-  <text x="390" y="1140" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#6b6b63">// this board auto-saves. so does my brain, allegedly.</text>
+  <text x="390" y="1040" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#6b6b63">// this board auto-saves. so does my brain, allegedly.</text>
 
 </svg>
