@@ -1,0 +1,110 @@
+<svg viewBox="0 0 780 1180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+    <pattern id="hatch" width="10" height="10" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#eeeeee"/>
+      <line x1="0" y1="0" x2="0" y2="10" stroke="#e0e0e0" stroke-width="6"/>
+    </pattern>
+  </defs>
+
+  <!-- page background -->
+  <rect x="0" y="0" width="780" height="1180" rx="14" fill="#F7F5EF" stroke="#111111" stroke-width="2"/>
+
+  <!-- blobs -->
+  <circle cx="60" cy="40" r="110" fill="#C9C2EE" opacity="0.55" filter="url(#blur1)"/>
+  <circle cx="740" cy="1120" r="100" fill="#F3C6DE" opacity="0.55" filter="url(#blur1)"/>
+
+  <!-- draft tag -->
+  <rect x="34" y="34" width="270" height="30" rx="15" fill="#FFFFFF" stroke="#111111" stroke-width="2" transform="rotate(-2 34 34)"/>
+  <text x="52" y="55" font-family="JetBrains Mono, Consolas, monospace" font-size="12" font-weight="700" fill="#111111" transform="rotate(-2 34 34)">v1 · draft · still moving things around</text>
+
+  <!-- headline -->
+  <text x="34" y="130" font-family="Arial Black, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#111111">your BETTER</text>
+  <text x="34" y="178" font-family="Arial Black, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#111111">BUILT PROFILE <tspan font-family="JetBrains Mono, monospace" font-size="24" fill="#8FA820">(^_^)</tspan></text>
+
+  <!-- subtitle -->
+  <text x="34" y="212" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#6b6b63">Hi, I'm Shruti — I sketch ideas fast and ship the ones worth keeping.</text>
+  <text x="34" y="232" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#6b6b63">Currently rearranging sticky notes on a Kafka bug.</text>
+
+  <!-- pointer tags -->
+  <rect x="34" y="256" width="90" height="32" rx="6" fill="#C6D93A" stroke="#111111"/>
+  <text x="48" y="277" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Python</text>
+
+  <rect x="200" y="296" width="80" height="32" rx="6" fill="#F3C6DE" stroke="#111111"/>
+  <text x="216" y="317" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">Flask</text>
+
+  <rect x="70" y="336" width="140" height="32" rx="6" fill="#C9C2EE" stroke="#111111"/>
+  <text x="86" y="357" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#111111">ML Pipelines</text>
+
+  <!-- section title -->
+  <text x="34" y="420" font-family="Arial Black, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#111111">✦ projects (dragged onto the board)</text>
+
+  <!-- card 1: PYGO -->
+  <g transform="translate(34,440)">
+    <rect x="0" y="0" width="712" height="94" rx="10" fill="#FFFFFF" stroke="#111111" stroke-width="2"/>
+    <line x1="0" y1="26" x2="712" y2="26" stroke="#111111" stroke-width="2"/>
+    <rect x="0" y="0" width="712" height="26" rx="10" fill="#EFEEE8"/>
+    <text x="14" y="18" font-family="JetBrains Mono, monospace" font-size="11" fill="#6b6b63">📌 PYGO.md — last edited today</text>
+    <rect x="16" y="38" width="90" height="42" rx="6" fill="url(#hatch)" stroke="#8b8b8b" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="132" y="52" font-family="Arial Black, Helvetica, sans-serif" font-size="15" font-weight="900" fill="#111111">🐍 PYGO</text>
+    <text x="132" y="70" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">Free gamified Python platform. Runs client-side</text>
+    <text x="132" y="83" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">via Pyodide — zero server cost.</text>
+    <rect x="638" y="34" width="58" height="20" rx="4" fill="#C6D93A"/>
+    <text x="648" y="48" font-family="JetBrains Mono, monospace" font-size="10" font-weight="700" fill="#2b3300">LIVE</text>
+  </g>
+
+  <!-- card 2: IPL -->
+  <g transform="translate(34,548)">
+    <rect x="0" y="0" width="712" height="94" rx="10" fill="#FFFFFF" stroke="#111111" stroke-width="2"/>
+    <line x1="0" y1="26" x2="712" y2="26" stroke="#111111" stroke-width="2"/>
+    <rect x="0" y="0" width="712" height="26" rx="10" fill="#EFEEE8"/>
+    <text x="14" y="18" font-family="JetBrains Mono, monospace" font-size="11" fill="#6b6b63">📌 ipl-model.md — last edited this week</text>
+    <rect x="16" y="38" width="90" height="42" rx="6" fill="url(#hatch)" stroke="#8b8b8b" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="132" y="52" font-family="Arial Black, Helvetica, sans-serif" font-size="15" font-weight="900" fill="#111111">🏏 IPL Data Insights Platform</text>
+    <text x="132" y="70" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">76% test accuracy, Streamlit dashboard,</text>
+    <text x="132" y="83" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">sub-second filtering across seasons.</text>
+    <rect x="638" y="34" width="58" height="20" rx="4" fill="#C6D93A"/>
+    <text x="648" y="48" font-family="JetBrains Mono, monospace" font-size="10" font-weight="700" fill="#2b3300">LIVE</text>
+  </g>
+
+  <!-- card 3: Budget -->
+  <g transform="translate(34,656)">
+    <rect x="0" y="0" width="712" height="94" rx="10" fill="#FFFFFF" stroke="#111111" stroke-width="2"/>
+    <line x1="0" y1="26" x2="712" y2="26" stroke="#111111" stroke-width="2"/>
+    <rect x="0" y="0" width="712" height="26" rx="10" fill="#EFEEE8"/>
+    <text x="14" y="18" font-family="JetBrains Mono, monospace" font-size="11" fill="#6b6b63">📌 budget-monitor.md — built with a teammate</text>
+    <rect x="16" y="38" width="90" height="42" rx="6" fill="url(#hatch)" stroke="#8b8b8b" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="132" y="52" font-family="Arial Black, Helvetica, sans-serif" font-size="15" font-weight="900" fill="#111111">💰 Budget Monitoring System</text>
+    <text x="132" y="70" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">Eats CSV exports, turns them into "oh, that's</text>
+    <text x="132" y="83" font-family="Arial, Helvetica, sans-serif" font-size="11.5" fill="#6b6b63">where my money goes" dashboards.</text>
+    <rect x="612" y="34" width="84" height="20" rx="4" fill="#C9C2EE"/>
+    <text x="622" y="48" font-family="JetBrains Mono, monospace" font-size="10" font-weight="700" fill="#3a3560">SHIPPED</text>
+  </g>
+
+  <!-- sticky notes section -->
+  <text x="34" y="796" font-family="Arial Black, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#111111">✦ sticky notes to self</text>
+
+  <g transform="translate(34,816) rotate(-1.5)">
+    <rect x="0" y="0" width="220" height="70" rx="4" fill="#C9C2EE" stroke="#111111" stroke-width="2"/>
+    <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">build the whole thing,</text>
+    <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">not just one layer</text>
+  </g>
+
+  <g transform="translate(272,822) rotate(1.5)">
+    <rect x="0" y="0" width="220" height="70" rx="4" fill="#F3C6DE" stroke="#111111" stroke-width="2"/>
+    <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">figure out the port</text>
+    <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">8080 conflict!!</text>
+  </g>
+
+  <g transform="translate(510,816) rotate(-1)">
+    <rect x="0" y="0" width="220" height="70" rx="4" fill="#C6D93A" stroke="#111111" stroke-width="2"/>
+    <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">ship &gt; polish</text>
+    <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">forever</text>
+  </g>
+
+  <!-- footer -->
+  <text x="390" y="1140" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#6b6b63">// this board auto-saves. so does my brain, allegedly.</text>
+
+</svg>
