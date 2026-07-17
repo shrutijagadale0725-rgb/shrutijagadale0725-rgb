@@ -16,5 +16,4 @@
 ### ✦ [IPL Data Insights Platform](https://overlly.streamlit.app/)
 
 **find me:** <br>
- <a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a>     
- <a href="shrutijagadale0725@gmail.com">GMail</a>
+ <a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a> 
