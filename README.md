@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/SQL%2FSQLite-C6D93A?style=for-the-badge&logo=sqlite&logoColor=111111" alt="SQL/SQLite"/> <img src="https://img.shields.io/badge/Azure-F3C6DE?style=for-the-badge&logo=microsoftazure&logoColor=111111" alt="Azure"/> <img src="https://img.shields.io/badge/Java-C6D93A?style=for-the-badge&logo=openjdk&logoColor=111111" alt="Java"/>
 <br>
 
-**Live links from the board above:**  
+### Live links from the board above:
 ### ✦ [PYGO](https://pygo.pythonanywhere.com/) ·  
 ### ✦ [IPL Data Insights Platform](https://overlly.streamlit.app/)
 
