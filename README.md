@@ -15,5 +15,5 @@
 ### ✦ [PYGO](https://pygo.pythonanywhere.com/) ·  
 ### ✦ [IPL Data Insights Platform](https://overlly.streamlit.app/)
 
-**find me:** <br>
+###  find me: <br>
  <a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a> 
