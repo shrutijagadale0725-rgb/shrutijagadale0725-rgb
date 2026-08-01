@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Shruti Jagadale — profile board" width="100%"/>
+<img src="./assets/hero.svg" alt="Shruti Jagadale — your better built profile" width="100%" />
 
 </div>
-<br>
 
 ### ✦ what I build with
 <img src="https://img.shields.io/badge/Python-C6D93A?style=for-the-badge&logo=python&logoColor=111111" alt="Python"/> <img src="https://img.shields.io/badge/Flask-F3C6DE?style=for-the-badge&logo=flask&logoColor=111111" alt="Flask"/> <img src="https://img.shields.io/badge/Streamlit-C9C2EE?style=for-the-badge&logo=streamlit&logoColor=111111" alt="Streamlit"/>
@@ -16,4 +15,4 @@
 ### ✦ [IPL Data Insights Platform](https://overlly.streamlit.app/)
 
 ###  find me: <br>
- <a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a> 
+ <a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a>
