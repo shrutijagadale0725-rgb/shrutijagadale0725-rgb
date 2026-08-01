@@ -26,11 +26,11 @@
   <text x="34" y="206" font-family="Arial Black, Helvetica, sans-serif" font-size="20" font-weight="900" fill="#111111">— SHRUTI J.</text>
 
   <!-- subtitle -->
-  <text x="34" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#3d3d36">I don't wait for perfect; I build full-stack, ship fast, and fix what breaks along the way.</text>
-  <text x="34" y="256" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#3d3d36">Scroll down for the proof: live projects, real bugs squashed, real code shipped.</text>
+  <text x="34" y="236" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" font-style="italic" fill="#3d3d36">I don't wait for perfect; I build full-stack, ship fast, and fix what breaks along the way.</text>
+  <text x="34" y="256" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" font-style="italic" fill="#3d3d36">Scroll down for the proof: live projects, real bugs squashed, real code shipped.</text>
 
   <!-- section title -->
-  <text x="34" y="292" font-family="Arial Black, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#111111">✦ projects (dragged onto the board)</text>
+  <text x="34" y="292" font-family="Arial Black, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#111111">✦ projects</text>
 
   <!-- card 1: PYGO -->
   <g transform="translate(34,312)">
@@ -121,24 +121,27 @@
   </g>
 
   <!-- sticky notes section -->
-  <text x="34" y="776" font-family="Arial Black, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#111111">✦ sticky notes to self</text>
+  <text x="34" y="776" font-family="Arial Black, Helvetica, sans-serif" font-size="18" font-weight="900" fill="#111111">✦ things I live by</text>
 
   <g transform="translate(34,796) rotate(-1.5)">
     <rect x="0" y="0" width="220" height="70" rx="4" fill="#C9C2EE" stroke="#111111" stroke-width="2"/>
-    <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">build the whole thing,</text>
-    <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">not just one layer</text>
+    <path d="M198,10 L200,15 L205,15 L201,18 L202.5,23 L198,20 L193.5,23 L195,18 L191,15 L196,15 Z" fill="#F7F5EF" stroke="#111111" stroke-width="1"/>
+    <text x="110" y="26" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">build the whole thing,</text>
+    <text x="110" y="44" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">not just one layer</text>
   </g>
 
   <g transform="translate(272,802) rotate(1.5)">
     <rect x="0" y="0" width="220" height="70" rx="4" fill="#F3C6DE" stroke="#111111" stroke-width="2"/>
-    <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">learn something new</text>
-    <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">every single week</text>
+    <path d="M198,10 L200,15 L205,15 L201,18 L202.5,23 L198,20 L193.5,23 L195,18 L191,15 L196,15 Z" fill="#F7F5EF" stroke="#111111" stroke-width="1"/>
+    <text x="110" y="26" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">learn something new</text>
+    <text x="110" y="44" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">every single week</text>
   </g>
 
   <g transform="translate(510,796) rotate(-1)">
     <rect x="0" y="0" width="220" height="70" rx="4" fill="#C6D93A" stroke="#111111" stroke-width="2"/>
-    <text x="12" y="26" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">ship &gt; polish</text>
-    <text x="12" y="44" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">forever</text>
+    <path d="M198,10 L200,15 L205,15 L201,18 L202.5,23 L198,20 L193.5,23 L195,18 L191,15 L196,15 Z" fill="#F7F5EF" stroke="#111111" stroke-width="1"/>
+    <text x="110" y="26" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">first make it exist</text>
+    <text x="110" y="44" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111111">then level it up</text>
   </g>
 
   <!-- what's next -->
@@ -157,28 +160,28 @@
 
   <g transform="rotate(-1 159 1122)">
     <rect x="34" y="1106" width="250" height="32" rx="6" fill="#C6D93A" stroke="#111111"/>
-    <text x="48" y="1127" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">Azure Fundamentals (AZ-900)</text>
+    <text x="159" y="1127" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">Azure Fundamentals (AZ-900)</text>
   </g>
   <g transform="rotate(1 383 1122)">
     <rect x="298" y="1106" width="170" height="32" rx="6" fill="#F3C6DE" stroke="#111111"/>
-    <text x="312" y="1127" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">IBM SkillsBuild AI</text>
+    <text x="383" y="1127" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">IBM SkillsBuild AI</text>
   </g>
   <g transform="rotate(-1.5 572 1122)">
     <rect x="482" y="1106" width="180" height="32" rx="6" fill="#C9C2EE" stroke="#111111"/>
-    <text x="496" y="1127" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">Prompt Engineering</text>
+    <text x="572" y="1127" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">Prompt Engineering</text>
   </g>
 
   <g transform="rotate(1.5 154 1166)">
     <rect x="34" y="1150" width="240" height="32" rx="6" fill="#F3C6DE" stroke="#111111"/>
-    <text x="48" y="1171" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">Tata GenAI Micro Internship</text>
+    <text x="154" y="1171" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">Tata GenAI Micro Internship</text>
   </g>
   <g transform="rotate(-1 388 1166)">
     <rect x="288" y="1150" width="200" height="32" rx="6" fill="#C9C2EE" stroke="#111111"/>
-    <text x="302" y="1171" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">Deloitte Data Analytics</text>
+    <text x="388" y="1171" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">Deloitte Data Analytics</text>
   </g>
   <g transform="rotate(1 605 1166)">
     <rect x="502" y="1150" width="206" height="32" rx="6" fill="#C6D93A" stroke="#111111"/>
-    <text x="516" y="1171" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">JPMorgan Forage SWE Sim</text>
+    <text x="605" y="1171" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="700" fill="#111111">JPMorgan Forage SWE Sim</text>
   </g>
 
   <!-- footer -->
