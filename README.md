@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="./assets/shruti-adventure.gif" alt="Shruti's Adventure" width="100%" />
 <img src="./assets/hero.svg" alt="Shruti Jagadale — your better built profile" width="100%" />
 
 </div>
