@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="assets/me.gif" alt="Coding setup animation" width="100%" />
+<div style="height: 250px; overflow: hidden;">
+  <img 
+    src="assets/me.gif" 
+    alt="Coding setup animation"
+    width="100%"
+    style="transform: translateY(-80px);"
+  />
+</div>
+
 <img src="./assets/hero.svg" alt="Shruti Jagadale — your better built profile" width="100%" />
 
 </div>
@@ -15,5 +23,5 @@
 ### ✦ [PYGO](https://pygo.pythonanywhere.com/) ·  
 ### ✦ [IPL Data Insights Platform](https://overlly.streamlit.app/)
 
-###  Find me: <br>
- <a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a>
+### Find me: <br>
+<a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a>
