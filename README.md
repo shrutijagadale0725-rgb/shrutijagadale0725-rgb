@@ -22,7 +22,7 @@
 ### Live links from the board above:
 [![PYGO](https://img.shields.io/badge/PYGO-C6D93A?style=for-the-badge&logo=python&logoColor=111111&labelColor=C6D93A&color=C6D93A)](https://pygo.pythonanywhere.com/)
 [![IPL Data Insights Platform](https://img.shields.io/badge/IPL_Data_Insights_Platform-F3C6DE?style=for-the-badge&logo=streamlit&logoColor=111111&labelColor=F3C6DE&color=F3C6DE)](https://github.com/shrutijagadale0725-rgb/ipl-intelligence-platform)
-[![BoopYA!](https://img.shields.io/badge/BoopYA!-9FC7F5?style=for-the-badge&logo=windows&logoColor=111111&labelColor=9FC7F5&color=9FC7F5)](https://github.com/shrutijagadale0725-rgb/BoopYA-AI-reminder-app/releases/latest)
+[![BoopYA!](https://img.shields.io/badge/BoopYA!-9FC7F5?style=for-the-badge&logo=windows&logoColor=111111)](https://github.com/shrutijagadale0725-rgb/BoopYA-AI-reminder-app/releases/latest)
 
 ### Find me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C9C2EE?style=for-the-badge&logo=linkedin&logoColor=111111)](https://linkedin.com/in/shruti-jagadale)
