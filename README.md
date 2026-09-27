@@ -25,4 +25,4 @@
 [![BoopYA!](https://img.shields.io/badge/BoopYA!-9FC7F5?style=for-the-badge&logo=windows&logoColor=111111&labelColor=9FC7F5&color=9FC7F5)](https://github.com/shrutijagadale0725-rgb/BoopYA-AI-reminder-app/releases/latest)
 
 ### Find me: <br>
-<a href="https://linkedin.com/in/shruti-jagadale">LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-jagadale)
