@@ -26,4 +26,4 @@
 
 ### Find me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C9C2EE?style=for-the-badge&logo=linkedin&logoColor=111111)](https://linkedin.com/in/shruti-jagadale)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrutijagadale0725@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-F3C6DE?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:shrutijagadale0725@gmail.com)
